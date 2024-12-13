@@ -43,11 +43,18 @@ npm install
 Create a .env file in the root directory and add the following:
 
 ```javascript
-PORT=3000
-MONGODB_URI=mongodb://localhost:27017/ecommerce
-PAYSTACK_PUBLIC_KEY=your-paystack-public-key
-PAYSTACK_SECRET_KEY=your-paystack-secret-key
-OTP_SECRET=your-otp-secret
+PORT=
+DB_URL = 
+JWT_SECRET_KEY = 
+JWT_EXPIRES=
+MONGO_URL=
+ACTIVATION_SECRET = 
+SMPT_SERVICE = gmail
+SMPT_HOST = smtp.gmail.com
+SMPT_PORT = 465 
+SMPT_PASSWORD =
+SMPT_MAIL =
+PAYSTACK_SECRET_KEY=
 ```
 
 4. Run the Application:

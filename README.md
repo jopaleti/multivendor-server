@@ -20,7 +20,7 @@ Welcome to the Multi-Vendor E-commerce Backend Server! This is a Node.js applica
 
 Before setting up the project, ensure you have the following installed:
 
-- 🎩 Node.js (v16 or later)
+- 🎩 Node.js (v20 or later)
 - 💾 MongoDB (local or hosted instance)
 - ☎ Paystack API Keys
 
